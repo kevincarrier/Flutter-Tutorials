@@ -14,4 +14,4 @@ Learned how to respond to taps, create a custom widget, and the difference betwe
 
 ## iOS Screenshots
 
-![iOS-2](iOS-Screenshot-2.png)   ![iOS-2](iOS-Screenshot-2.png)
+![iOS-2](iOS-Screenshot-1.png)   ![iOS-2](iOS-Screenshot-2.png)
