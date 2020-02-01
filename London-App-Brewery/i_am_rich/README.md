@@ -1,16 +1,16 @@
-# i_am_rich
+# London App Brewery Flutter Tutorial - I Am Rich App
 
-London App Brewery Flutter Tutorial - I Am Rich App
+Simple Flutter App that uses an AppBar, Scaffold, and Image
 
-## Getting Started
+## Links
+<a href="https://www.youtube.com/playlist?list=PLSzsOkUDsvdtl3Pw48-R8lcK2oYkk40cm" target="_blank">Youtube Course - How to Build Flutter Apps for iOS and Android</a>
+<br/>
+<a href="https://appicon.co/" target="_blank">Create App Icon</a>
 
-This project is a starting point for a Flutter application.
+## Android Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![Android](Android-Screenshot.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## iOS Screenshot
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![iOS](iOS-Screenshot.png)
