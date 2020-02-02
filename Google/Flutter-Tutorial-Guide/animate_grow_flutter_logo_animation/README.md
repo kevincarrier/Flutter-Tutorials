@@ -9,7 +9,7 @@ Make flutter logo grow using animations
 
 ## Android Screenshot
 
-![Android](Android-Screenshot.png)
+![Android](Android-Screensho.png)
 
 ## iOS Screenshot
 
